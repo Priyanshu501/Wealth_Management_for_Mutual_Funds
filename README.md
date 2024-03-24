@@ -1,5 +1,5 @@
-# HachHive Submission
-Welcome to our HackHive submission repository! This repository contains the code and documentaion for our project developed during the HachHive hackathon.
+# HackHive Submission
+Welcome to our HackHive submission repository! This repository contains the code and documentaion for our project developed during the HackHive hackathon.
 
 Checkout Working Project here: [View Project](https://wealthmanagementinsightsformutualfunds-hg9rngmjppnpefprxwnvh3.streamlit.app/)
 
